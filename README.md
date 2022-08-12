@@ -1,1 +1,1 @@
-Printf Team project by Kolawole Quadri and Shobanke Adewole
+printf team project by Kolawole Quadri and Shobanke Adewole
