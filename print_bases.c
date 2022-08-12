@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_hex - prints a number in hexadecimal base,
+ * print_hex - Prints a number in hexadecimal base,
  * in lowercase
  * @l: va_list arguments from _printf
  * @f: pointer to the struct flags that determines

@@ -10,7 +10,7 @@
 .B , ...)
 .SH DESCRIPTION
 .B _printf()
-Prints to standard output under the control of a 
+prints to standard output under the control of a 
 .I format
 string that specifies how subsequent arguments are converted for output. 
 .SH Return value
